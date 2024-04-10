@@ -21,10 +21,24 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.spbn0305.GarbMan",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyB1WYXE42VmZn-WmpAKhZT5q63BxCUMm9U"
+        }
       }
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "524eb345-874e-46d7-9f22-8a7d26ee231d"
+      }
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }

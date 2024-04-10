@@ -1,20 +1,10 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import React from "react";
+// import { StatusBar } from "expo-status-bar";
+// import { StyleSheet, Text, View } from "react-native";
+// import MapView, { PROVIDER_GOOGLE } from "react-native-maps";
+import NavScreen from "./screens/NavScreen";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+  return <NavScreen />;
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});

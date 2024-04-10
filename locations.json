@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Marina Beach",
+    "latitude": 13.05,
+    "longitude": 80.2824,
+    "trashCanId": "TC001",
+    "trashLevel": 30
+  },
+  {
+    "name": "Besant Nagar Beach",
+    "latitude": 12.9975,
+    "longitude": 80.2672,
+    "trashCanId": "TC002",
+    "trashLevel": 60
+  },
+  {
+    "name": "Valluvar Kottam",
+    "latitude": 13.0424,
+    "longitude": 80.2401,
+    "trashCanId": "TC003",
+    "trashLevel": 10
+  },
+  {
+    "name": "Guindy National Park",
+    "latitude": 13.0083,
+    "longitude": 80.2206,
+    "trashCanId": "TC004",
+    "trashLevel": 80
+  },
+  {
+    "name": "Chennai Central",
+    "latitude": 13.0827,
+    "longitude": 80.2707,
+    "trashCanId": "TC005",
+    "trashLevel": 40
+  },
+  {
+    "name": "Egmore Museum",
+    "latitude": 13.0711,
+    "longitude": 80.2565,
+    "trashCanId": "TC006",
+    "trashLevel": 20
+  },
+  {
+    "name": "Marina Lighthouse",
+    "latitude": 13.0497,
+    "longitude": 80.2802,
+    "trashCanId": "TC007",
+    "trashLevel": 70
+  },
+  {
+    "name": "Fort St. George",
+    "latitude": 13.0796,
+    "longitude": 80.287,
+    "trashCanId": "TC008",
+    "trashLevel": 50
+  },
+  {
+    "name": "Semmozhi Poonga",
+    "latitude": 13.0116,
+    "longitude": 80.2492,
+    "trashCanId": "TC009",
+    "trashLevel": 90
+  },
+  {
+    "name": "Parthasarathy Temple",
+    "latitude": 13.0767,
+    "longitude": 80.2701,
+    "trashCanId": "TC010",
+    "trashLevel": 15
+  },
+  {
+    "name": "Avadi Lake",
+    "latitude": 13.1208,
+    "longitude": 80.104,
+    "trashCanId": "TC011",
+    "trashLevel": 25
+  },
+  {
+    "name": "Porur Lake",
+    "latitude": 13.0407,
+    "longitude": 80.1527,
+    "trashCanId": "TC012",
+    "trashLevel": 55
+  },
+  {
+    "name": "Kamaraj Nagar Park",
+    "latitude": 13.1215,
+    "longitude": 80.1058,
+    "trashCanId": "TC013",
+    "trashLevel": 35
+  },
+  {
+    "name": "Avadi Temple",
+    "latitude": 13.114,
+    "longitude": 80.1093,
+    "trashCanId": "TC014",
+    "trashLevel": 75
+  },
+  {
+    "name": "Kattupakkam Park",
+    "latitude": 13.0447,
+    "longitude": 80.1512,
+    "trashCanId": "TC015",
+    "trashLevel": 45
+  },
+  {
+    "name": "Porur Church",
+    "latitude": 13.035,
+    "longitude": 80.1596,
+    "trashCanId": "TC016",
+    "trashLevel": 85
+  },
+  {
+    "name": "Avadi Market",
+    "latitude": 13.1168,
+    "longitude": 80.1097,
+    "trashCanId": "TC017",
+    "trashLevel": 65
+  },
+  {
+    "name": "Porur Signal",
+    "latitude": 13.0401,
+    "longitude": 80.1574,
+    "trashCanId": "TC018",
+    "trashLevel": 5
+  },
+  {
+    "name": "Avadi Railway Station",
+    "latitude": 13.1101,
+    "longitude": 80.1085,
+    "trashCanId": "TC019",
+    "trashLevel": 95
+  },
+  {
+    "name": "Porur Bus Stand",
+    "latitude": 13.0419,
+    "longitude": 80.157,
+    "trashCanId": "TC020",
+    "trashLevel": 30
+  }
+]
