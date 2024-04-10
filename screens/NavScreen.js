@@ -14,7 +14,7 @@ const NavScreen = () => {
   return (
     <NavigationContainer>
       <Stack.Navigator
-        initialRouteName="Driver"
+        initialRouteName="Login"
         screenOptions={{ headerShown: false }}
       >
         <Stack.Screen name="Login" component={LoginScreen} />

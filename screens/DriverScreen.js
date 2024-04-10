@@ -13,7 +13,7 @@ import * as Location from "expo-location";
 
 const logo = require("../assets/Logo.png");
 ``;
-const DriverScreen = () => {
+const DriverScreen = ({ navigation }) => {
   const [requestDetails, setRequestDetails] = useState(null);
   const [driverLocation, setDriverLocation] = useState(null);
 
